@@ -202,7 +202,7 @@ An interactive tracker for the 456 problems in Striver's A2Z DSA sheet.
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/gzOutbjIj7/"><img src="https://leetcard.jacoblin.cool/gzOutbjIj7?theme=dark&ext=heatmap" alt="LeetCode stats" width="60%" /></a>
+  <a href="https://leetcode.com/u/gzOutbjIj7/"><img src="https://raw.githubusercontent.com/Ulhas123/Ulhas123/main/leetcode.svg" alt="LeetCode stats" width="60%" /></a>
 </p>
 
 </div>
@@ -215,7 +215,7 @@ I enjoy talking about agentic AI, ML systems, and full-stack craft. The easiest 
 
 - 📧 **Email:** [ulhaskarankankar23@gmail.com](mailto:ulhaskarankankar23@gmail.com)
 - 💼 **LinkedIn:** [ulhas-karankar](https://www.linkedin.com/in/ulhas-karankar/)
-- 🧩 **LeetCode:** [Ulhas Karankar](https://leetcode.com/u/gzOutbjIj7/)
+- 🧩 **LeetCode:** [gzOutbjIj7](https://leetcode.com/u/gzOutbjIj7/)
 
 <div align="center">
 
