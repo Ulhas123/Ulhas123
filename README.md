@@ -215,7 +215,7 @@ I enjoy talking about agentic AI, ML systems, and full-stack craft. The easiest 
 
 - 📧 **Email:** [ulhaskarankankar23@gmail.com](mailto:ulhaskarankankar23@gmail.com)
 - 💼 **LinkedIn:** [ulhas-karankar](https://www.linkedin.com/in/ulhas-karankar/)
-- 🧩 **LeetCode:** [gzOutbjIj7](https://leetcode.com/u/gzOutbjIj7/)
+- 🧩 **LeetCode:** [Ulhas Karankar](https://leetcode.com/u/gzOutbjIj7/)
 
 <div align="center">
 
