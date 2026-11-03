@@ -188,26 +188,6 @@ An interactive tracker for the 456 problems in Striver's A2Z DSA sheet.
 
 ---
 
-## 📊 GitHub & LeetCode Stats
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ulhas123&theme=tokyonight" alt="GitHub stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ulhas123&theme=tokyonight" alt="Most used languages by commits" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ulhas123&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak stats" width="60%" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/gzOutbjIj7/"><img src="https://raw.githubusercontent.com/Ulhas123/Ulhas123/main/leetcode.svg" alt="LeetCode stats" width="60%" /></a>
-</p>
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
