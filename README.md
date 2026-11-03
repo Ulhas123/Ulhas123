@@ -204,9 +204,6 @@ I enjoy talking about agentic AI, ML systems, and full-stack craft. The easiest 
   <img src="https://komarev.com/ghpvc/?username=Ulhas123&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<p align="center">
-  <i>"Building software at the intersection of intelligence, efficiency, and craft."</i>
-</p>
 
 <!-- Bottom Waving Capsule Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=120&section=footer" width="100%" alt="" />
