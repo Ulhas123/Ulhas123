@@ -14,7 +14,7 @@
 <p align="center">
   <a href="mailto:ulhaskarankankar23@gmail.com"><img src="https://img.shields.io/badge/Email-ulhaskarankankar23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/ulhas-karankar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/Ulhas123/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/gzOutbjIj7/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://github.com/Ulhas123?tab=repositories"><img src="https://img.shields.io/badge/GitHub-7_Public_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" /></a>
 </p>
 
