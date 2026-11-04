@@ -10,7 +10,7 @@
 
 <!-- Social & Contact Badges -->
 <p align="center">
-  <a href="mailto:ulhaskarankankar23@gmail.com"><img src="https://img.shields.io/badge/Email-ulhaskarankankar23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ulhaskarankar23@gmail.com"><img src="https://img.shields.io/badge/Email-ulhaskarankankar23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/ulhas-karankar-816940324/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/gzOutbjIj7/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://github.com/Ulhas123?tab=repositories"><img src="https://img.shields.io/github/followers/Ulhas123?style=for-the-badge&logo=github&logoColor=white&label=GitHub%20Followers&color=181717" alt="GitHub followers" /></a>
